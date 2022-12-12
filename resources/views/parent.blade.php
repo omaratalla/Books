@@ -306,6 +306,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
 
 
+
          <a  href="javascript:;" class="menu-link menu-toggle"><i class="menu-bullet menu-bullet-line"><span></span></i>
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1"></svg>
 <!--end::Svg Icon--><!--end::Svg Icon-->			<!--end::Menu Nav-->
